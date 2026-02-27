@@ -1,0 +1,51 @@
+PROJECT SUMMARY
+
+Project Title: Notepad Application Using Java Swing
+
+University: Khushal Khan Khattak University, Karak (KKKUK)
+
+Instructor: Dr. Arshad Iqbal
+
+Developed By:
+
+Naeem Ullah
+
+Abdul Salam
+
+Muhammad Afshan
+
+Introduction:
+The Notepad Application is a desktop-based text editor developed using Java Swing. It allows users to create, edit, and manage text documents efficiently.
+
+Purpose of the Project:
+The purpose of this project is to gain practical experience in Java GUI development and file handling. It also strengthens knowledge of event-driven programming and object-oriented concepts.
+
+Scope of the Project:
+This application can be used by students and professionals for writing and editing simple text documents.
+
+Key Features:
+
+New file creation
+
+Open and save text files
+
+Edit options (Cut, Copy, Paste)
+
+Scrollable text area
+
+Menu-driven interface
+
+Tools and Technologies:
+
+Java
+
+Java Swing
+
+AWT
+
+File Handling
+
+Event Handling
+
+Conclusion:
+The Notepad project successfully demonstrates how to build a functional desktop text editor using Java Swing. It improves programming skills and understanding of GUI and file management systems.
